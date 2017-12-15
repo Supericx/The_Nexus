@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Lei zhang
+=======
+Lei zhang hahaha
+>>>>>>> d6ad4f8246742d1489ef885322c9db8d240628d6
+
 Xiao Zhong
